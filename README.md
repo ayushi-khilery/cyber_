@@ -1,1 +1,1 @@
-it is my cybersecurity portfolio and contains the projects that i have done.
+This is my cybersecurity portfolio and contains relevamt projects.
